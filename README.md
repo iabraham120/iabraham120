@@ -1,8 +1,8 @@
 ## Hi there 👋
-<h3>About Me 👀</h3>
-- I'm Abraham, I am from Changolandia (Mexico), de Guerrero pa los compas
-- Future programmer (in the making) or in the worst case scenario, future housewife xd
-- Terribly obsessed with **Persona**, **JoJo's Bizarre Adventure**, Street Fighter, Smash Bros, Pokémon, Metallica, Guitar Hero, Resident Evil, Zelda, Shikanoko Nokonoko Koshitantan, Berserk, Breaking Bad AND MANY MORE (Damn, my autism is visible)
+###About Me 👀
+ - I'm Abraham, I am from Changolandia (Mexico), de Guerrero pa los compas
+ - Future programmer (in the making) or in the worst case scenario, future housewife xd
+ - Terribly obsessed with **Persona**, **JoJo's Bizarre Adventure**, Street Fighter, Smash Bros, Pokémon, Metallica, Guitar Hero, Resident Evil, Zelda, Shikanoko Nokonoko Koshitantan, Berserk, Breaking Bad AND MANY MORE (Damn, my autism is visible)
 
 <h3>Languages & Tools</h3>
 <p>
